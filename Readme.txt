@@ -1,0 +1,1 @@
+This is a library for Bitcoin wallets that combine Bip32 with automatic script generation. 
